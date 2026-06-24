@@ -10,9 +10,9 @@ Built using **Node.js**, **Express.js**, **MongoDB Atlas**, **Cloudinary**, **Ma
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🔐 User Authentication & Authorization
+###  User Authentication & Authorization
 
 - Secure user registration and login
 - Session-based authentication using Passport.js
@@ -20,31 +20,38 @@ Built using **Node.js**, **Express.js**, **MongoDB Atlas**, **Cloudinary**, **Ma
 - Listing ownership verification
 - Review ownership protection
 
-### ☁️ Cloud Image Upload
+###  Cloud Image Upload
 
 - Upload listing images directly from the device
 - Cloudinary cloud storage integration
 - Optimized image delivery and management
 - Secure file handling using Multer
 
-### 🗺️ Interactive Maps
+###  Interactive Maps & Geolocation
 
 - Mapbox integration for geolocation services
+- Geocoding services
 - Automatic location-to-coordinate conversion
 - Interactive map display for listings
 - Enhanced travel discovery experience
 
-### 🛡️ Data Validation & Security
+###  Data Validation & Security
 
 - Joi server-side validation
 - Authentication middleware
 - Authorization middleware
 - Flash messaging system
 - Error handling and security best practices
+- Secure session management
+
+##  MVC Architecture
+
+The application follows the MVC (Model-View-Controller) design pattern for better code organization and scalability.
+
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -105,17 +112,26 @@ Built using **Node.js**, **Express.js**, **MongoDB Atlas**, **Cloudinary**, **Ma
 - Git & GitHub Version Control
 
 ---
+## 🚀 Future Enhancements
 
-## 👩‍💻 Developed By
+- Property Search Functionality
+- Category-Based Filtering
+- Wishlist Feature
+- Booking System
+- User Dashboard
+- Payment Gateway Integration
+  
+---
+##  Developed By
 
 **Pooja Ware**
 
-ENTC Engineering Student | Aspiring Full Stack Web Developer
+ENTC Engineering Student 
 
 🔗 GitHub: https://github.com/poojaware04
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational purposes, skill development, and portfolio showcase.
