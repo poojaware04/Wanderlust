@@ -1,106 +1,121 @@
-### 🌍 Wanderlust
+# 🌍 Wanderlust
 
-### Full Stack Travel Booking Platform
+## Full Stack Travel Booking Platform
 
 Wanderlust is a modern full-stack travel accommodation platform inspired by Airbnb, designed to help users discover, share, and manage unique travel stays across different locations.
 
 The platform provides a seamless experience for travelers and property owners by offering secure authentication, property listing management, cloud-based image uploads, interactive location maps, and a comprehensive review and rating system.
 
-Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport.js, the application follows the MVC architecture and implements industry-standard web development practices including authentication, authorization, server-side validation, session management, and RESTful routing.
+Built using **Node.js**, **Express.js**, **MongoDB Atlas**, **Cloudinary**, **Mapbox**, and **Passport.js**, the application follows the **MVC Architecture** and implements industry-standard web development practices including authentication, authorization, server-side validation, session management, and RESTful routing.
 
-### 🚀 Key Features
+---
 
-###  User Authentication & Authorization
+## 🚀 Key Features
 
-* Secure user registration and login
-* Session-based authentication using Passport.js
-* Protected routes and access control
-* Listing ownership verification
-* Review ownership protection
+### 🔐 User Authentication & Authorization
 
-###  Cloud Image Upload
+- Secure user registration and login
+- Session-based authentication using Passport.js
+- Protected routes and access control
+- Listing ownership verification
+- Review ownership protection
 
-* Upload listing images directly from the device
-* Cloudinary cloud storage integration
-* Optimized image delivery and management
-* Secure file handling using Multer
+### ☁️ Cloud Image Upload
 
-###  Interactive Maps
+- Upload listing images directly from the device
+- Cloudinary cloud storage integration
+- Optimized image delivery and management
+- Secure file handling using Multer
 
-* Mapbox integration for geolocation services
-* Automatic location-to-coordinate conversion
-* Interactive map display for listings
-* Enhanced travel discovery experience
+### 🗺️ Interactive Maps
 
-###  Data Validation & Security
+- Mapbox integration for geolocation services
+- Automatic location-to-coordinate conversion
+- Interactive map display for listings
+- Enhanced travel discovery experience
 
-* Joi server-side validation
-* Authentication middleware
-* Authorization middleware
-* Flash messaging system
-* Error handling and security best practices
+### 🛡️ Data Validation & Security
 
-### 🛠️ Tech Stack
+- Joi server-side validation
+- Authentication middleware
+- Authorization middleware
+- Flash messaging system
+- Error handling and security best practices
 
-**Frontend**
+---
 
-* HTML5
-* CSS3
-* Bootstrap 5
-* JavaScript
-* EJS
-* EJS-Mate
+## 🛠️ Tech Stack
 
-**Backend**
+### Frontend
 
-* Node.js
-* Express.js
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- EJS
+- EJS-Mate
 
-**Database**
+### Backend
 
-* MongoDB Atlas
-* Mongoose
+- Node.js
+- Express.js
 
-**Authentication**
- * Passport.js
- * Passport Local Strategy
- * Passport Local Mongoose
+### Database
 
-**Cloud Services**
+- MongoDB Atlas
+- Mongoose
 
-* Cloudinary
+### Authentication
 
-**Maps & Geolocation**
+- Passport.js
+- Passport Local Strategy
+- Passport Local Mongoose
 
- * Mapbox SDK
+### Cloud Services
 
-**Validation**
-* Joi
+- Cloudinary
 
-**Session Management**
+### Maps & Geolocation
 
-* Express Session
-* Connect Mongo
-* Connect Flash
+- Mapbox SDK
+
+### Validation
+
+- Joi
+
+### Session Management
+
+- Express Session
+- Connect Mongo
+- Connect Flash
+
+---
 
 ## 🎯 Project Highlights
 
-* Full Stack Web Development
-* MVC Architecture
-* RESTful Routing
-* Authentication & Authorization
-* Cloud-Based Image Storage
-* Interactive Maps & Geolocation
-* MongoDB Database Design
-* Form Validation & Error Handling
-* Responsive User Interface
-* Git & GitHub Version Control
+- Full Stack Web Development
+- MVC Architecture
+- RESTful Routing
+- Authentication & Authorization
+- Cloud-Based Image Storage
+- Interactive Maps & Geolocation
+- MongoDB Database Design
+- Form Validation & Error Handling
+- Responsive User Interface
+- Git & GitHub Version Control
 
-##  Developed By
+---
+
+## 👩‍💻 Developed By
 
 **Pooja Ware**
- Entc Engineering Student
+
+ENTC Engineering Student | Aspiring Full Stack Web Developer
+
 🔗 GitHub: https://github.com/poojaware04
 
-##  License
+---
+
+## 📄 License
+
 This project is developed for educational purposes, skill development, and portfolio showcase.
