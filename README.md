@@ -1,4 +1,4 @@
-# 🌍 Wanderlust
+### 🌍 Wanderlust
 
 ### Full Stack Travel Booking Platform
 
@@ -8,9 +8,9 @@ The platform provides a seamless experience for travelers and property owners by
 
 Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport.js, the application follows the MVC architecture and implements industry-standard web development practices including authentication, authorization, server-side validation, session management, and RESTful routing.
 
-## 🚀 Key Features
+### 🚀 Key Features
 
-# 🔐 User Authentication & Authorization
+### 🔐 User Authentication & Authorization
 
 * Secure user registration and login
 * Session-based authentication using Passport.js
@@ -18,36 +18,21 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 * Listing ownership verification
 * Review ownership protection
 
-# 🏠 Property Listing Management
-
-* Create new accommodation listings
-* Edit existing listings
-* Delete owned listings
-* View all available properties
-* Detailed listing pages with complete information
-
-# 🖼️ Cloud Image Upload
+### 🖼️ Cloud Image Upload
 
 * Upload listing images directly from the device
 * Cloudinary cloud storage integration
 * Optimized image delivery and management
 * Secure file handling using Multer
 
-# 🗺️ Interactive Maps
+### 🗺️ Interactive Maps
 
 * Mapbox integration for geolocation services
 * Automatic location-to-coordinate conversion
 * Interactive map display for listings
 * Enhanced travel discovery experience
 
-# ⭐ Reviews & Ratings
-
-* Add reviews to listings
-* Star-based rating system
-* Delete personal reviews
-* Community-driven feedback system
-
-# ✅ Data Validation & Security
+### ✅ Data Validation & Security
 
 * Joi server-side validation
 * Authentication middleware
@@ -55,7 +40,7 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 * Flash messaging system
 * Error handling and security best practices
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Frontend**
 
@@ -77,21 +62,19 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 * Mongoose
 
 **Authentication**
- Passport.js
- Passport Local Strategy
- Passport Local Mongoose
+ *Passport.js
+ *Passport Local Strategy
+ *Passport Local Mongoose
 
 **Cloud Services**
-
-  Cloudinary
+*Cloudinary
 
 **Maps & Geolocation**
 
- Mapbox SDK
+ *Mapbox SDK
 
 **Validation**
-
-  Joi
+*Joi
 
 **Session Management**
 
@@ -115,11 +98,8 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 ## 👩‍💻 Developed By
 
 **Pooja Ware**
-
-Full Stack Web Developer | Entc Engineering Student
-
+ Entc Engineering Student
 🔗 GitHub: https://github.com/poojaware04
 
 ## 📄 License
-
 This project is developed for educational purposes, skill development, and portfolio showcase.
