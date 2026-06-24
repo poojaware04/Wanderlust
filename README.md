@@ -62,20 +62,20 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 * Mongoose
 
 **Authentication**
- *Passport.js
- *Passport Local Strategy
- *Passport Local Mongoose
+ * Passport.js
+ * Passport Local Strategy
+ * Passport Local Mongoose
 
 **Cloud Services**
 
-*Cloudinary
+* Cloudinary
 
 **Maps & Geolocation**
 
- *Mapbox SDK
+ * Mapbox SDK
 
 **Validation**
-*Joi
+* Joi
 
 **Session Management**
 
