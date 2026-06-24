@@ -10,7 +10,7 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 
 ### 🚀 Key Features
 
-### 🔐 User Authentication & Authorization
+###  User Authentication & Authorization
 
 * Secure user registration and login
 * Session-based authentication using Passport.js
@@ -18,21 +18,21 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 * Listing ownership verification
 * Review ownership protection
 
-### 🖼️ Cloud Image Upload
+###  Cloud Image Upload
 
 * Upload listing images directly from the device
 * Cloudinary cloud storage integration
 * Optimized image delivery and management
 * Secure file handling using Multer
 
-### 🗺️ Interactive Maps
+###  Interactive Maps
 
 * Mapbox integration for geolocation services
 * Automatic location-to-coordinate conversion
 * Interactive map display for listings
 * Enhanced travel discovery experience
 
-### ✅ Data Validation & Security
+###  Data Validation & Security
 
 * Joi server-side validation
 * Authentication middleware
@@ -67,6 +67,7 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
  *Passport Local Mongoose
 
 **Cloud Services**
+
 *Cloudinary
 
 **Maps & Geolocation**
@@ -95,11 +96,11 @@ Built using Node.js, Express.js, MongoDB Atlas, Cloudinary, Mapbox, and Passport
 * Responsive User Interface
 * Git & GitHub Version Control
 
-## 👩‍💻 Developed By
+##  Developed By
 
 **Pooja Ware**
  Entc Engineering Student
 🔗 GitHub: https://github.com/poojaware04
 
-## 📄 License
+##  License
 This project is developed for educational purposes, skill development, and portfolio showcase.
